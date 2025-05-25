@@ -1,6 +1,6 @@
 html,
 body {
-  background:"headerimage"; 
+ background-image: url("headerimage.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
