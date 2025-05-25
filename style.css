@@ -1,6 +1,6 @@
 html,
 body {
-  background: url(../img/headerimage.jpg) no-repeat center center fixed; 
+  background:"headerimage"; 
   background-size: cover;
   height: 100%;
   width: 100%;
